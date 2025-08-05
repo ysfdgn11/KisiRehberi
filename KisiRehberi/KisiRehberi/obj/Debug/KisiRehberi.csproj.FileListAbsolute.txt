@@ -1,0 +1,7 @@
+C:\Users\Yusuf\source\repos\KisiRehberi\KisiRehberi\bin\Debug\KisiRehberi.exe.config
+C:\Users\Yusuf\source\repos\KisiRehberi\KisiRehberi\bin\Debug\KisiRehberi.exe
+C:\Users\Yusuf\source\repos\KisiRehberi\KisiRehberi\bin\Debug\KisiRehberi.pdb
+C:\Users\Yusuf\source\repos\KisiRehberi\KisiRehberi\obj\Debug\KisiRehberi.csproj.AssemblyReference.cache
+C:\Users\Yusuf\source\repos\KisiRehberi\KisiRehberi\obj\Debug\KisiRehberi.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf\source\repos\KisiRehberi\KisiRehberi\obj\Debug\KisiRehberi.exe
+C:\Users\Yusuf\source\repos\KisiRehberi\KisiRehberi\obj\Debug\KisiRehberi.pdb
